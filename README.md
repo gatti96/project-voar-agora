@@ -10,4 +10,6 @@
 
 :rocket: Por enquanto o projeto segue sem novas atualizações mas não quer dizer que elas não podem ocorrer conforme o aprendizado acontece e novas ideias surgirem.
 
+ Projeto desenvolvido no VS Code usando HTML e CSS e alguns elementos do Bootstrap para estilar os botões dos cards de promoções.
+
 :desktop_computer: :earth_americas: Deploy: https://gatti96.github.io/project-voar-agora/
