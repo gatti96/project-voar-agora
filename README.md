@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/107943147/194566554-a53be10e-9364-4477-93e7-9f7ac6d35f5c.png)
+
 <h1 align="center">Project Voar Agora</h1>
 
 <p align="center">Consiste em um projeto de aprendizado focado em praticar alguns conteúdos aprendidos.</p>
