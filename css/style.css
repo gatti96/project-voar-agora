@@ -1461,6 +1461,9 @@ footer {
     font-size: 1em;
     padding: 0;
   }
+  #conteudo-sobre ul li:hover {
+    padding: 15px;
+  }
   /*fim serviços */
   /* responsividade pagina sobre e menus e rodape gerais */
   #container {
@@ -1800,6 +1803,9 @@ footer {
     padding: 5px;
     text-indent: 40px;
     font-size: 0.8em;
+  }
+  #conteudo-sobre ul li:hover {
+    padding: 15px;
   }
   /* fim responsividade menus */
   /* inicio responsividade sobre */
